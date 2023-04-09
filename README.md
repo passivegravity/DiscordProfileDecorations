@@ -91,6 +91,9 @@ Simply head over to the CSS editor and paste **[this snippet](https://github.com
 
 > **[Obtaining Profile Decoration Link](https://youtu.be/EShWttIct4U)**
 >
-> **[Changing Profile Decoration]()**
+> **[Changing Profile Decoration](https://youtu.be/LpIoztTailw)**
 
+  
+  <img src="Source%20Images/icon.jpg">
+  
 </div>

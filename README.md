@@ -82,6 +82,8 @@ Example of such clients are:
 > **[Vencord](https://github.com/Vendicated/Vencord)**
 > 
 > **[BetterDiscord](https://betterdiscord.app/)**
+>
+> **[OpenAsar](https://openasar.dev/)**
 
 Simply head over to the CSS editor and paste **[this snippet](https://github.com/LowOnGravity/DiscordProfileDecorations/blob/main/Script/snippet.css)** inside.
 

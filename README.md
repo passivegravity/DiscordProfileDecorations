@@ -25,5 +25,8 @@ This is nothing more than just a CSS snippet, however remember to take things li
 > 
 >  <img src="Source%20Images/example2.gif">
 
-See all the available decorations [here](https://github.com/LowOnGravity/DiscordProfileDecorations/tree/main/Source%20Images)
+**See all the available decorations [here](https://github.com/LowOnGravity/DiscordProfileDecorations/tree/main/Source%20Images)**
+
+
+
 </div>

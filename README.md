@@ -24,6 +24,10 @@ This is nothing more than just a CSS snippet, however remember to take things li
 > **Added April 2023: "Frog"**
 > 
 >  <img src="Source%20Images/example2.gif">
+  
+> **Flowers**
+>
+> <img src="Source%20Images/example3.gif">
 
 **See all the available decorations [here](https://github.com/LowOnGravity/DiscordProfileDecorations/tree/main/Source%20Images)**
 

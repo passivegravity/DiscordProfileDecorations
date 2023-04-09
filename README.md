@@ -33,6 +33,8 @@ This is nothing more than just a CSS snippet, however remember to take things li
 
 **See all the available decorations [here](https://github.com/LowOnGravity/DiscordProfileDecorations/tree/main/Source%20Images)**
 
+# 📚 USAGE 📚
 
+**A quick guide on obtaining profile decoration of your choice: [CLICK ME](https://youtu.be/EShWttIct4U)**
 
 </div>

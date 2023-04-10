@@ -145,5 +145,63 @@ background: url("https://cdn.discordapp.com/avatar-decoration-presets/v2_a_33950
 > 
 > Purple Mushroom
 
+# 🦝 ANIMALS 🦝
+
+> <img src="examples/animals/bwcat.gif">
+> 
+>
+```css
+background: url("https://cdn.discordapp.com/avatar-decoration-presets/v2_a_700e6968d847aaa78b7063dc44b8ca9f.png?size=128&passthrough=true") center/cover;
+```
+> 
+> Black and White Cat 
+
+- - - 
+
+
+> <img src="examples/animals/dottedcat.gif">
+> 
+>
+```css
+background: url("https://cdn.discordapp.com/avatar-decoration-presets/v2_a_ffed32256ce57750cc9a87ed62b0a5ba.png?size=128&passthrough=true") center/cover;
+```
+> 
+> Dotted Cat
+
+
+
+- - - 
+
+> <img src="examples/animals/garfield.gif">
+> 
+>
+```css
+background: url("https://cdn.discordapp.com/avatar-decoration-presets/v2_a_49e93656ed29488809cb49b10a6854c6.png?size=128&passthrough=true") center/cover;
+```
+> 
+> Garfield
+
+
+- - - 
+
+> <img src="examples/animals/yellowcat.gif">
+> 
+>
+```css
+background: url("ttps://cdn.discordapp.com/avatar-decoration-presets/v2_a_bf320a6355b8315bc37b188b84f1fe21.png?size=128&passthrough=true") center/cover;
+```
+> 
+> Yellow Cat
+
+- - - 
+
+> <img src="examples/animals/lbdog.gif">
+> 
+>
+```css
+background: url("https://cdn.discordapp.com/avatar-decoration-presets/v2_a_49e93656ed29488809cb49b10a6854c6.png?size=128&passthrough=true") center/cover;
+```
+> 
+> Light Brown Dog
 
 </div>

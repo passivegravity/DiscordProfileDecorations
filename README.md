@@ -23,7 +23,7 @@
 
 </details>
 
-# 📚 USAGE 📚
+# ♻ PROFILE DECORATIONS FOR DISCORD WEBGL ♻
 
 <details><summary> How do I properly use this script?</summary>
 
@@ -33,7 +33,9 @@ To use this modification for WebglCord you need one of those extensions:
 >
 > **[Violentmonkey](https://violentmonkey.github.io/)**
 >
-> **[User JS & CSS - Google Extension](https://chrome.google.com/webstore/detail/user-javascript-and-css/nbhcbdghjpllgmfilhnhkllmkecfmpld)**
+
+
+After you've installed any of those extensions, install my script through [GreasyFork](https://greasyfork.org/scripts/457845-profile-decoration-script/code/Profile%20Decoration%20Script.user.js) and then simply head over to [discord.com](https://discord.com/channels/@me) to enjoy new visuals.
 
 </details>
 

@@ -46,7 +46,49 @@ background: url("https://cdn.discordapp.com/avatar-decoration-presets/v2_a_669e4
 > Yellow Flowers
 
 
+# 🐸 FROGS 🐸
 
+> <img src="examples/frogs/happy.gif">
+> 
+>
+```css
+background: url("https://cdn.discordapp.com/avatar-decoration-presets/v2_a_8f4e2c88d0b00a2e6eefdbe0a70944ec.png?size=128&passthrough=true") center/cover;
+```
+> 
+> Happy Frog
+
+- - - 
+
+> <img src="examples/frogs/tongue.gif">
+> 
+>
+```css
+background: url("https://cdn.discordapp.com/avatar-decoration-presets/v2_a_683904e98e8e7bca912125d360293cc6.png?size=160&passthrough=true") center/cover;
+```
+> 
+> Sticking Tongue Out Frog
+
+- - - 
+
+> <img src="examples/frogs/sad.gif">
+> 
+>
+```css
+background: url("https://cdn.discordapp.com/avatar-decoration-presets/v2_a_32c66e3421b5599cf0d1ebabc29dcd16.png?size=128&passthrough=true") center/cover;
+```
+> 
+> Sad Frog
+
+- - - 
+
+> <img src="examples/frogs/angry.gif">
+> 
+>
+```css
+background: url("https://cdn.discordapp.com/avatar-decoration-presets/v2_a_c58a9fe37aa945ca41892f04fc61314b.png?size=128&passthrough=true") center/cover;
+```
+> 
+> Angry Frog
 
 
 </div>

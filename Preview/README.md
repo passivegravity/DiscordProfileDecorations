@@ -92,7 +92,7 @@ background: url("https://cdn.discordapp.com/avatar-decoration-presets/v2_a_c58a9
 
 # 🌲 FORESTAL 🌲
 
-> <img src="examples/natural/autumn.gif">
+> <img src="examples/nature/autumn.gif">
 > 
 >
 ```css
@@ -103,7 +103,7 @@ background: url("https://cdn.discordapp.com/avatar-decoration-presets/v2_a_0b2d5
 
 - - - 
 
-> <img src="examples/natural/brownmushroom.gif">
+> <img src="examples/nature/brownmushroom.gif">
 > 
 >
 ```css
@@ -114,7 +114,7 @@ background: url("https://cdn.discordapp.com/avatar-decoration-presets/v2_a_549ba
 
 - - - 
 
-> <img src="examples/natural/greenmushroom.gif">
+> <img src="examples/nature/greenmushroom.gif">
 > 
 >
 ```css
@@ -125,7 +125,7 @@ background: url("https://cdn.discordapp.com/avatar-decoration-presets/v2_a_fc5d8
 
 - - - 
 
-> <img src="examples/natural/redmushroom.gif">
+> <img src="examples/nature/redmushroom.gif">
 > 
 >
 ```css
@@ -136,7 +136,7 @@ background: url("https://cdn.discordapp.com/avatar-decoration-presets/v2_a_9b1a9
 
 - - - 
 
-> <img src="examples/natural/violetmushroom.gif">
+> <img src="examples/nature/violetmushroom.gif">
 > 
 >
 ```css

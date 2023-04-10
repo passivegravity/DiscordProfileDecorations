@@ -91,11 +91,11 @@ Head Over to any sort of code editor like Visual Studio Code or even simple Note
 
 > <img src="Source%20Images/guide1.png">
 > 
-> Delete link that is between "quotes" and paste there a link to your chosen decoration.
+> Delete the whole line starting from "background..."
 
 > <img src="Source%20Images/guide2.png">
 > 
-> After pasting your decoration, save your snippet and put it into Google Extension or your CSS Editor inside discord client.
+> And in its place paste the one that you've just copied for your chosen decoration.
 
 
 </details>
@@ -106,7 +106,7 @@ Head Over to any sort of code editor like Visual Studio Code or even simple Note
 
 > **[Obtaining Profile Decoration Link](https://youtu.be/EShWttIct4U)**
 >
-> 
+> **[Changing My Profile Decoration]()**
 
 </details>
   

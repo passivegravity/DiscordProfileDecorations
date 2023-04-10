@@ -106,7 +106,7 @@ Head Over to any sort of code editor like Visual Studio Code or even simple Note
 
 > **[Obtaining Profile Decoration Link](https://youtu.be/EShWttIct4U)**
 >
-> **[Changing My Profile Decoration]()**
+> **[DiscordProfileDecorations Guide](https://youtu.be/-OLvb0CUmuk)**
 
 </details>
   

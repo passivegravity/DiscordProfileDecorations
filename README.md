@@ -2,22 +2,12 @@
 
 <img src="Source%20Images/icon.jpg">
 
-# ✨ DISCORD PROFILE DECORATIONS ✨
-
-
-
-*Simple CSS Snippet that lets you have Profile Decorations without Nitro*
-
-
-
-#  ⚠ NOTICE ⚠
-
-Using such addons may potentially result in your account being terminated if reported, please use it on your own responsibility.
-
-This is nothing more than just a CSS snippet, however remember to take things lightly and stay safe.
 
 
 # 🔔 EXAMPLES 🔔
+
+<details><summary> Reveal Examples </summary>
+
 
 > **Added April 2023: "Autumnlike"**
 > 
@@ -31,10 +21,11 @@ This is nothing more than just a CSS snippet, however remember to take things li
 >
 > <img src="Source%20Images/example3.gif">
 
-**See all the available decorations [here](https://github.com/LowOnGravity/DiscordProfileDecorations/tree/main/Source%20Images)**
+</details>
 
 # 📚 USAGE 📚
 
+<details><summary> How do I properly use this script?</summary>
 
 To use this modification for WebglCord you need one of those extensions:
 
@@ -44,18 +35,15 @@ To use this modification for WebglCord you need one of those extensions:
 >
 > **[User JS & CSS - Google Extension](https://chrome.google.com/webstore/detail/user-javascript-and-css/nbhcbdghjpllgmfilhnhkllmkecfmpld)**
 
+</details>
 
 
 
-After you've installed and enabled my script, you can head over to [Discord's Page](https://discord.com/channels/@me) and enjoy profile decoration.
 
-# 👻 **CHANGING PROFILE DECORATIONS** 👻
-
-> Soon 
 
 # ♻ PROFILE DECORATIONS FOR DISCORD APP ♻
-
-To use this CSS snippet you need to install a modded client that contains a ***Custom CSS Editor*** within it.
+<details><summary> What modded clients can I use it with? </summary>
+To use this CSS snippet you need to install a modded client that contains a 𝗖𝘂𝘀𝘁𝗼𝗺 𝗖𝗦𝗦 𝗘𝗱𝗶𝘁𝗼𝗿 within it.
 
 Example of such clients are:
 
@@ -65,14 +53,21 @@ Example of such clients are:
 >
 > **[OpenAsar](https://openasar.dev/)**
 
-Simply head over to the CSS editor and paste **[this snippet](https://github.com/LowOnGravity/DiscordProfileDecorations/blob/main/Script/snippet.css)** inside.
+Simply head over to the CSS editor and paste **[this snippet]()** inside.
+
+
+</details>
+
 
 # 📚 VIDEO GUIDES 📚
+
+<details><summary> Are there any step by step video guides? </summary>
 
 > **[Obtaining Profile Decoration Link](https://youtu.be/EShWttIct4U)**
 >
 > 
 
+</details>
   
   <img src="Source%20Images/icon.jpg">
   

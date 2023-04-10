@@ -69,7 +69,7 @@ Example of such clients are:
 >
 > **[OpenAsar](https://openasar.dev/)**
 
-Simply head over to the CSS editor and paste **[this snippet]()** inside.
+Simply head over to the CSS editor and paste **[this snippet](https://raw.githubusercontent.com/LowOnGravity/DiscordProfileDecorations/main/Script/CSS%20Snippet/snippet.css)** inside.
 
 
 </details>

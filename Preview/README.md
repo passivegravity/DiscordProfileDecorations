@@ -90,5 +90,60 @@ background: url("https://cdn.discordapp.com/avatar-decoration-presets/v2_a_c58a9
 > 
 > Angry Frog
 
+# 🌲 FORESTAL 🌲
+
+> <img src="examples/natural/autumn.gif">
+> 
+>
+```css
+background: url("https://cdn.discordapp.com/avatar-decoration-presets/v2_a_0b2d5d75d4f1287befda6b2180aec41d.png?size=160&passthrough=true") center/cover;
+```
+> 
+> Autumn-like
+
+- - - 
+
+> <img src="examples/natural/brownmushroom.gif">
+> 
+>
+```css
+background: url("https://cdn.discordapp.com/avatar-decoration-presets/v2_a_549ba042b8adef872b7a52ebb563dc69.png?size=128&passthrough=true") center/cover;
+```
+> 
+> Brown Mushroom
+
+- - - 
+
+> <img src="examples/natural/greenmushroom.gif">
+> 
+>
+```css
+background: url("https://cdn.discordapp.com/avatar-decoration-presets/v2_a_fc5d8621ab57442f49662f7f76a56212.png?size=128&passthrough=true") center/cover;
+```
+> 
+> Green Mushroom
+
+- - - 
+
+> <img src="examples/natural/redmushroom.gif">
+> 
+>
+```css
+background: url("https://cdn.discordapp.com/avatar-decoration-presets/v2_a_9b1a98ba163aeea50dc0ca42988acf1d.png?size=128&passthrough=true") center/cover;
+```
+> 
+> Red Mushroom
+
+- - - 
+
+> <img src="examples/natural/violetmushroom.gif">
+> 
+>
+```css
+background: url("https://cdn.discordapp.com/avatar-decoration-presets/v2_a_33950b8d93e3ac1ae95c733d281fa7b5.png?size=128&passthrough=true") center/cover;
+```
+> 
+> Purple Mushroom
+
 
 </div>

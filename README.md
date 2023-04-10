@@ -75,6 +75,31 @@ Simply head over to the CSS editor and paste **[this snippet](https://raw.github
 </details>
 
 
+
+# ➰ CHANGING PROFILE DECORATION ➰
+
+<details> 
+<summary> How can I change current decoration to something I'd like?</summary>
+
+In order to change your decoration head over to [Preview Page](https://github.com/LowOnGravity/DiscordProfileDecorations/tree/main/Preview) from which you can choose whichever decoration you'd only like. 
+
+> <img src="Source%20Images/guide0.png">
+> 
+> Below each of these examples is a code snippet you need to copy.
+
+Head Over to any sort of code editor like Visual Studio Code or even simple Notepad.
+
+> <img src="Source%20Images/guide1.png">
+> 
+> Delete link that is between "quotes" and paste there a link to your chosen decoration.
+
+> <img src="Source%20Images/guide2.png">
+> 
+> After pasting your decoration, save your snippet and put it into Google Extension or your CSS Editor inside discord client.
+
+
+</details>
+
 # 📚 VIDEO GUIDES 📚
 
 <details><summary> Are there any step by step video guides? </summary>

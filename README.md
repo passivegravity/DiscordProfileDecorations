@@ -93,7 +93,7 @@ Head Over to any sort of code editor like Visual Studio Code or even simple Note
 > 
 > Delete the whole line starting from "background..."
 
-> <img src="Source%20Images/guide2.png">
+> <img src="Source%20Images/guide11.png">
 > 
 > And in its place paste the one that you've just copied for your chosen decoration.
 

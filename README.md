@@ -33,6 +33,8 @@
 >
 > <img src="Source%20Images/example3.gif">
 
+Click here to view all the [presets and available decorations](https://github.com/LowOnGravity/DiscordProfileDecorations/tree/main/Preview).
+
 </details>
 
 # ♻ PROFILE DECORATIONS FOR DISCORD WEBGL ♻

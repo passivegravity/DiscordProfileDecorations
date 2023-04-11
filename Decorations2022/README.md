@@ -56,7 +56,7 @@ background: url("https://cdn.discordapp.com/attachments/1058662075385262100/1058
 
 - - - -
 
-> <img src="/source_example/mix.png">
+> <img src="source_example/mix.png">
 > 
 >
  ```css

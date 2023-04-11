@@ -7,7 +7,7 @@ I'm keeping here links to older decorations, from which there are ones presented
 
 These decorations are no longer animated. 
 
-If you have a working animated decoration link, please provide it so I may fix this.
+If I find time I will try my best to fix this issue.
 
 
 # 💌 PREVIEW 💌

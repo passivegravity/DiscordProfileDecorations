@@ -12,7 +12,7 @@ If you have a working animated decoration link, please provide it so I may fix t
 
 # 💌 PREVIEW 💌
 
-> <img src="Decorations2022/source_example/blue.png">
+> <img src="source_example/blue.png">
 > 
 >
  ```css
@@ -23,7 +23,7 @@ background: url("https://cdn.discordapp.com/attachments/1058662075385262100/1058
 
 - - - -
 
-> <img src="decorations2022/source_example/yellow.png">
+> <img src="source_example/yellow.png">
 > 
 >
  ```css
@@ -35,7 +35,7 @@ background: url("https://cdn.discordapp.com/attachments/1058662075385262100/1058
 
 - - - -
 
-> <img src="Decorations2022/source_example/green.png">
+> <img src="source_example/green.png">
 > 
 >
  ```css
@@ -46,7 +46,7 @@ background: url("https://cdn.discordapp.com/attachments/1058662075385262100/1058
 
 - - - -
 
-> <img src="Decorations2022/source_example/yellowblue.png">
+> <img src="source_example/yellowblue.png">
 > 
 >
  ```css
@@ -56,7 +56,7 @@ background: url("https://cdn.discordapp.com/attachments/1058662075385262100/1058
 
 - - - -
 
-> <img src="Decorations2022/source_example/mix.png">
+> <img src="/source_example/mix.png">
 > 
 >
  ```css
@@ -66,7 +66,7 @@ background: url("https://cdn.discordapp.com/attachments/1058662075385262100/1058
 
 - - - -
 
-> <img src="Decorations2022/source_example/frost.png">
+> <img src="source_example/frost.png">
 > 
 >
  ```css

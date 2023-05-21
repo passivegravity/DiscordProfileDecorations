@@ -33,7 +33,19 @@
 >
 > <img src="Source%20Images/example3.gif">
 
-Click here to view all the [presets and available decorations](https://github.com/LowOnGravity/DiscordProfileDecorations/tree/main/Preview).
+Available Decorations: 
+ 
+[Decoration File Stash](https://github.com/passivegravity/DiscordProfileDecorations/tree/main/Decorations)
+
+[ Previous Decorations](https://github.com/passivegravity/DiscordProfileDecorations/tree/main/Preview)
+
+[Decorations from 2022](https://github.com/passivegravity/DiscordProfileDecorations/tree/main/Decorations2022)
+
+[Decorations from 2023 8-Years-Anniversary](https://github.com/passivegravity/DiscordProfileDecorations/tree/main/Decors2023)
+ 
+[My Private/Custom Decorations](https://github.com/passivegravity/DiscordProfileDecorations/tree/main/Custom)
+
+ 
 
 </details>
 
